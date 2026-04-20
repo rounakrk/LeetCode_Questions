@@ -35,6 +35,7 @@ Example:
 | :--- | :--- | :--- | :--- | :--- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array | [View Code](./1.%20Two%20Sum/solution.py) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 🟡 Medium | Math | [View Code](./7.%20Reverse%20Integer/solution.py) |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/reverse-integer/description/) | 🟢 Easy | BST | [View Code](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Element/solution1.cpp) |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | Array | [View Code](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/solution.cpp) |
 
