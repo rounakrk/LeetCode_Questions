@@ -39,6 +39,7 @@ Example:
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Element/solution1.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | Array | [View Code](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/solution.cpp) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 🟡 Medium | Array | [View Code](./2149.%20Rearrange%20Array%20Elements%20by%20Sign/solution.cpp) |
 
 ---
 
