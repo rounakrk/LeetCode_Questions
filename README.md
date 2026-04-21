@@ -22,10 +22,10 @@ Example:
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 2 |
-| 🟡 Medium | 2 |
+| 🟢 Easy | 5 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| **Total** | **4** |
+| **Total** | **8** |
 
 ---
 
@@ -35,6 +35,7 @@ Example:
 | :--- | :--- | :--- | :--- | :--- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array | [View Code](./1.%20Two%20Sum/solution.py) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 🟡 Medium | Math | [View Code](./7.%20Reverse%20Integer/solution.py) |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | Array | [View Code](./27.%20Remove%20Element/solution.cpp) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/reverse-integer/description/) | 🟢 Easy | BST | [View Code](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Element/solution1.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
