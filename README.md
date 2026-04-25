@@ -37,6 +37,7 @@ Example:
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 🟡 Medium | Math | [View Code](./7.%20Reverse%20Integer/solution.py) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | Array | [View Code](./26.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.cpp) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | Array | [View Code](./27.%20Remove%20Element/solution.cpp) |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | 🟡 Medium | Array | [View Code](./74.%20Search%20a%202D%20Matrix/solution.cpp) |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/reverse-integer/description/) | 🟢 Easy | BST | [View Code](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py) |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Element/solution1.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
