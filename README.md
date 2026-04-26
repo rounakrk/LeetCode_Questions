@@ -22,10 +22,10 @@ Example:
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 5 |
-| 🟡 Medium | 3 |
+| 🟢 Easy | 8 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
-| **Total** | **8** |
+| **Total** | **13** |
 
 ---
 
@@ -38,11 +38,14 @@ Example:
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | Array | [View Code](./26.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.cpp) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | Array | [View Code](./27.%20Remove%20Element/solution.cpp) |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | 🟡 Medium | Array | [View Code](./74.%20Search%20a%202D%20Matrix/solution.cpp) |
-| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/reverse-integer/description/) | 🟢 Easy | BST | [View Code](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py) |
-| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Element/solution1.cpp) |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 Easy | BST | [View Code](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py) |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [View Code](./203.%20Remove%20Linked%20List%20Elements/solution1.cpp) |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Array | [View Code](./229.%20Majority%20Element%20II/solution.cpp) |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | Array | [View Code](./287.%20Find%20the%20Duplicate%20Number/solution.cpp) |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | 🟢 Easy | Array | [View Code](./905.%20Sort%20Array%20By%20Parity/solution.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | Array | [View Code](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/solution.cpp) |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 🟡 Medium | Array | [View Code](./2149.%20Rearrange%20Array%20Elements%20by%20Sign/solution.cpp) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 🟢 Easy | Array | [View Code](./2149.%20Rearrange%20Array%20Elements%20by%20Sign/solution.cpp) |
 
 ---
 
