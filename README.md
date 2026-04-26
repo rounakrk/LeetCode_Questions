@@ -22,10 +22,10 @@ Example:
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 8 |
+| 🟢 Easy | 9 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
-| **Total** | **13** |
+| **Total** | **14** |
 
 ---
 
@@ -43,6 +43,7 @@ Example:
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Array | [View Code](./229.%20Majority%20Element%20II/solution.cpp) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | Array | [View Code](./287.%20Find%20the%20Duplicate%20Number/solution.cpp) |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | 🟢 Easy | Array | [View Code](./905.%20Sort%20Array%20By%20Parity/solution.cpp) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 🟢 Easy | Array | [View Code](./1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/solution.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | Array | [View Code](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/solution.cpp) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 🟢 Easy | Array | [View Code](./2149.%20Rearrange%20Array%20Elements%20by%20Sign/solution.cpp) |
