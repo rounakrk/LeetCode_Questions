@@ -22,10 +22,10 @@ Example:
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 9 |
+| 🟢 Easy | 10 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 ---
 
@@ -46,6 +46,7 @@ Example:
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | 🟢 Easy | Array | [View Code](./1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/solution.cpp) |
 | 1813 | [GFG - Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | 🟢 Easy | Array | [View Code](./1813(GFG).%20Move%20all%20negative%20elements%20to%20end/solution.cpp) |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/?envType=daily-question&envId=2026-04-19) | 🟡 Medium | Array | [View Code](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/solution.cpp) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | 🟢 Easy | Array | [View Code](./1929.%20Concatenation%20of%20Array/solution.cpp) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 🟢 Easy | Array | [View Code](./2149.%20Rearrange%20Array%20Elements%20by%20Sign/solution.cpp) |
 
 ---
